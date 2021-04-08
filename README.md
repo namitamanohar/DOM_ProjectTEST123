@@ -24,6 +24,5 @@
 
 ## Video of Exemplar Project
 
-![caption](![Static Template](https://user-images.githubusercontent.com/57641506/114062987-203eba00-9866-11eb-934d-c4924764376b.gif)
- / GIF)
+![Project Example](!)![CroppedGIFDOMProj](https://user-images.githubusercontent.com/57641506/114063333-7f043380-9866-11eb-9785-079dad5c2bde.jpg))
 
