@@ -24,8 +24,6 @@
 
 ## Video of Exemplar Project
 
-<a href="https://www.loom.com/share/8e949291f1fe443fbeb95d434cd8c6af">
-    <p>Static Template - Watch Video</p>
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/public/8e949291f1fe443fbeb95d434cd8c6af-with-play.gif">
-  </a>
+![caption](![Static Template](https://user-images.githubusercontent.com/57641506/114062987-203eba00-9866-11eb-934d-c4924764376b.gif)
+ / GIF)
 
